@@ -1,4 +1,8 @@
-# Tooltip for Angular
+# Tooltip for Angular 13.x
+
+Modified by Joe Balan. A from Code Ctrl Solutions Private Limited, Bangalore.
+
+Special thanks to the original development team.
 
 [![Build Status](https://travis-ci.org/drozhzhin-n-e/ng2-tooltip-directive.svg?branch=master)](https://travis-ci.org/drozhzhin-n-e/ng2-tooltip-directive) <img src="https://badgen.net/bundlephobia/min/ng2-tooltip-directive" />
 
