@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'tooltipNg12App'`, () => {
+  it(`should have as title 'tooltipNg13App'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('tooltipNg12App');
+    expect(app.title).toEqual('tooltipNg13App');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('tooltipNg12App app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('tooltipNg13App app is running!');
   });
 });

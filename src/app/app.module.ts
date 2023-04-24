@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-import { TooltipModule } from 'ng2-tooltip-directive';
+import { TooltipModule } from 'ngx-tooltip-directive-ng13';
 
 @NgModule({
   declarations: [

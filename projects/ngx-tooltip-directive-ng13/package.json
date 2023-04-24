@@ -1,10 +1,10 @@
 {
-  "name": "ng2-tooltip-directive",
+  "name": "ngx-tooltip-directive-ng13",
   "version": "2.10.0",
   "description": "Tooltip for Angular",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joebalan-git/ng2-tooltip-directive.git"
+    "url": "git+https://github.com/joebalan-git/ngx-tooltip-directive-ng13.git"
   },
   "author": {
     "name": "Joe Balan",
@@ -21,7 +21,7 @@
   "homepage": "www.codectrlsolutions.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drozhzhin-n-e/ng2-tooltip-directive/issues"
+    "url": "https://github.com/drozhzhin-n-e/ngx-tooltip-directive-ng13/issues"
   },
   "peerDependencies": {
     "@angular/common": "^13.2.0",
